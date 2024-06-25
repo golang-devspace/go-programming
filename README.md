@@ -20,3 +20,20 @@ Go has two types of packages
 
 ## Install Go
 https://go.dev/doc/install
+
+
+## go.mod and go.sum files in Golang project
+Reference : https://go.dev/ref/mod
+ * go.mod is used for dependency management in golang projects.
+ * All the modules which are needed or to be used in the project are maintained in go.mod file.
+ * For all the packages we are going to import/use in our project, it will create an entry of those modules in go.mod. 
+ * Having a go mod file saves the efforts of running the go get command for each dependent module to run  the project successfully.
+
+### go.sum 
+After running any package building command like go build, go test for
+the first time, it will install all the packages with specific versions i.e which are the latest at that moment.
+It will also create a go.sum file which maintains the checksum so when you run the project again it will not install all packages again. But use the cache which is stored inside $GOPATH/pkg/mod directory (module cache directory)
+```
+$ go mod verify
+# Allows you to verify the checksum of dependencies
+```

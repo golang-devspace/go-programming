@@ -17,3 +17,7 @@
 
 ## Tuesday 21, May  2024
 ### Section 3 L24 - Byte Slices
+
+## Tuesday 25, June 2024
+### Section 3 revision from L24 to L28
+### Section 3 completed L29

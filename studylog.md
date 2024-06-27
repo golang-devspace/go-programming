@@ -21,3 +21,9 @@
 ## Tuesday 25, June 2024
 ### Section 3 revision from L24 to L28
 ### Section 3 completed L29
+
+## Wednesday 26, June 2024
+### Section 3 L30 -> L36
+
+## Thursday 27, June 2024
+### Section 3 L37 -> L40

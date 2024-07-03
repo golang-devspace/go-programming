@@ -37,3 +37,13 @@ It will also create a go.sum file which maintains the checksum so when you run t
 $ go mod verify
 # Allows you to verify the checksum of dependencies
 ```
+
+# Data structure is Go
+## Struct
+It is data structure. A collection of properties that are related together.
+Struct in different language
+Javascript -> plain object
+ruby       -> hash
+python     -> Dictionary
+ 
+

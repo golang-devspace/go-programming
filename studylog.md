@@ -28,3 +28,6 @@
 ## Thursday 27, June 2024
 ### Section 3 L37 -> L40
 ### Section 4 L41 -> L52
+
+## Wednesday 3, July 2024
+### Section 5 L53 -> L56

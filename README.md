@@ -45,5 +45,19 @@ Struct in different language
 Javascript -> plain object
 ruby       -> hash
 python     -> Dictionary
- 
+
+ ## Difference between Map and Struct
+ ### Map
+ * All keys must be of same type
+ * Use to represent a collection of related properties.
+ * All value must be of same type.
+ * Don't need to know all the kays at compile time.
+ * Keys are indexed - we can iterate over them.
+ * Reference type
+### Struct
+* Values can be of different types
+* You need to know all the different fields at compile time.
+* keys don't support  indexing
+* Use to represent a thing with a lot of different properties
+* Value type 
 

@@ -61,3 +61,8 @@ python     -> Dictionary
 * Use to represent a thing with a lot of different properties
 * Value type 
 
+## Interface in Go
+* Interface are not generic types in go like Java
+* Interface are implicit
+* Interfaces are a contract to help us manage types
+* Interfaces are tough. Step #1 is understanding how to read them

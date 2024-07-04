@@ -31,3 +31,6 @@
 
 ## Wednesday 3, July 2024
 ### Section 5 L53 -> L56
+
+## Thursday 4, July 2024
+### Section 6 L57 -> L61

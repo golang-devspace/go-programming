@@ -65,4 +65,4 @@ python     -> Dictionary
 * Interface are not generic types in go like Java
 * Interface are implicit
 * Interfaces are a contract to help us manage types
-* Interfaces are tough. Step #1 is understanding how to read them
+* Interfaces are tough. Step #1 is understanding how to read them.

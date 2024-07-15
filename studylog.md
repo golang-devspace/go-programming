@@ -41,3 +41,6 @@
 ## Wednesday 10, July 2024
 ### Section 6 L75 -> L76
 ### Section 7 L77 -> L79
+
+## Monday 15, July 2024
+### Section 6 L79 -> L83

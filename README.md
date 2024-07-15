@@ -66,3 +66,11 @@ python     -> Dictionary
 * Interface are implicit
 * Interfaces are a contract to help us manage types
 * Interfaces are tough. Step #1 is understanding how to read them.
+
+## Concurrency in Golang
+Concurrency in computing enables different parts of a program to execute independently, potentially improving performance and allowing better use of system resources. 
+Concurrency is very useful software developed particularly for network services.
+Go employees "Goroutines" and "Channels" as a fundamental constructs to enable concurrent programming. 
+* Goroutine is a lightweight thread managed by the Go runtime.
+* Channels are a typed conduit through which you can send and receive values with the channel operator, <-. (channels are the only we can communicate with goroutines)
+* Channel can be create as a same way like struct or any other variable. 
